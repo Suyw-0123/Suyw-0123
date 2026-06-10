@@ -8,6 +8,7 @@
 - K8s, CI/CD
 - Linux(Debian, Fedora)
 - React
+- FastAPI
 - Agentic RAG
 <!--
 **Suyw-0123/Suyw-0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
