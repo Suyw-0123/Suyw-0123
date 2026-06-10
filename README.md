@@ -1,5 +1,14 @@
-# Learning K8s damn hard
+## These are what I did recently
 
+- [luminotype](https://luminotype.pages.dev/)
+- [md-to-pdf-cli](https://pypi.org/project/md-to-pdf-cli/)
+
+## Learning:
+- Postgres
+- K8s, CI/CD
+- Linux(Debian, Fedora)
+- React
+- Agentic RAG
 <!--
 **Suyw-0123/Suyw-0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
