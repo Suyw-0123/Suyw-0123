@@ -7,6 +7,7 @@
 - Postgres
 - K8s, CI/CD
 - Linux(Debian, Fedora)
+- Modern Style C++
 - React
 - FastAPI
 - Agentic RAG
